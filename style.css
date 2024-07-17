@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.func{
+    color: rgb(57, 155, 220);
+}
+
+footer{
+    text-align: center;
+}
